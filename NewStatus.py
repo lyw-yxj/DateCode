@@ -10,7 +10,6 @@
 ## 直接创建：tuple1 = (1, 2, 3)
 ## 不使用括号创建：tuple2 = 1, 2, 3（Python会自动识别为元组）
 ## 创建空元组：empty_tuple = ()
-## 创建单元素元组：single_tuple = (1,)（注意逗号）
 
 
 ##print(type(t))
