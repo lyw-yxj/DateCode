@@ -12,11 +12,6 @@
 ## 创建空元组：empty_tuple = ()
 
 
-##print(type(t))
-##
-##t = 1,2,3
-##print(t)
-##print(type(t))
 ##
 ##t = ()
 ##print(t)
